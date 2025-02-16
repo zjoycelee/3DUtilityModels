@@ -1,11 +1,19 @@
 # PortableScrewdriverBox
 
-Welcome to the **PortableScrewdriverBox** project! This is a compact and portable screwdriver design, optimized for use in tight spaces. The screwdriver can hold six 6.5mm, 25mm long bits, and its lid features a bit holder with non-slip grooves, making it convenient for use in confined spaces. It is especially useful for tasks like working on sewing machine covers, where space is limited.
+Welcome to the **PortableScrewdriverBox** project! This is a compact and portable bit storage box designed to hold seven 6.5mm, 25mm-long bits. The lid doubles as a bit holder with an anti-slip grip, making it especially useful in tight spaces, such as sewing machine covers.  
 
-## Features
+## Features  
 
-- **Portable Design**: A small, convenient screwdriver box that is easy to carry around.
-- **Bit Holder**: Can hold six 6.5mm, 25mm long bits, allowing for easy bit changes.
-- **Ideal for Tight Spaces**: Compact design, perfect for use in narrow spaces such as maintenance on sewing machines and other devices.
-- **Bit-Installing Lid**: The lid also functions as a holder for the bits, making operation more convenient.
-- **Non-slip, High-Torque Lid**: The lid is equipped with non-slip grooves, with a 36mm diameter, providing greater torque for efficient use.
+- **Portable Design**: A small screwdriver box that is easy to carry, with a height of 30mm and a diameter of 36mm.  
+- **Low Material Usage & Quick Print**: Uses less than 15g of filament and prints in just 40 minutes.  
+- **Bit Storage**: Holds up to seven 6.5mm, 25mm-long bits for easy swapping.  
+- **Lid as a Bit Holder for Tight Spaces**: The lid serves as a bit holder, making it ideal for working in confined spaces, such as maintaining sewing machines.  
+- **Anti-Slip & High Torque**: The lid features an anti-slip grip and a 36mm diameter, providing greater torque.  
+
+## Preview  
+
+### Dimensions Preview  
+![Dimensions Overview](./assets/size.png)
+
+### Real Shots  
+<!-- todo -->
