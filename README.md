@@ -11,7 +11,7 @@ Welcome to the **3DUtilityModels** repository! This repository contains a collec
 Each tool has its own dedicated folder, structured as follows:
 
 - ToolName/
-  - stls/      # STL files of the 3D models
+  - models/    # 3D model files of the 3D models
   - assets/    # Images, renders, and documentation related to the models
   - 3mf/       # 3MF files for more detailed print configurations
 
