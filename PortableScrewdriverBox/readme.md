@@ -1,19 +1,27 @@
 # PortableScrewdriverBox
 
-Welcome to the **PortableScrewdriverBox** project! This is a compact and portable bit storage box designed to hold seven 6.5mm, 25mm-long bits. The lid doubles as a bit holder with an anti-slip grip, making it especially useful in tight spaces, such as sewing machine covers.  
+Welcome to the **PortableScrewdriverBox** project! This compact and portable screwdriver bit storage box is designed to hold seven 6.5mm, 25mm long bits. Its lid can also hold bits and features anti-slip strips, making it ideal for use in confined spaces, especially for maintenance tasks in tight areas like sewing machine covers.
 
-## Features  
+## Features
 
-- **Portable Design**: A small screwdriver box that is easy to carry, with a height of 30mm and a diameter of 36mm.  
-- **Low Material Usage & Quick Print**: Uses less than 15g of filament and prints in just 40 minutes.  
-- **Bit Storage**: Holds up to seven 6.5mm, 25mm-long bits for easy swapping.  
-- **Lid as a Bit Holder for Tight Spaces**: The lid serves as a bit holder, making it ideal for working in confined spaces, such as maintaining sewing machines.  
-- **Anti-Slip & High Torque**: The lid features an anti-slip grip and a 36mm diameter, providing greater torque.  
+- **Compact and Portable Design**: The small screwdriver box is easy to carry around with a height of 30mm and a diameter of 36mm.
+- **Minimal Material Usage, Quick Print**: Uses less than 15g of material with a print time of about 40 minutes, perfect for fast production.
+- **Bit Storage**: It can hold 7 pieces of 6.5mm, 25mm long screwdriver bits for easy swapping.
+- **Lid for Tight Space Usage**: The lid is designed to hold bits, with a compact form ideal for use in narrow spaces, such as the maintenance of sewing machine covers.
+- **Anti-slip, High Torque**: The lid features anti-slip strips and provides greater torque with a diameter of 36mm for improved stability.
 
-## Preview  
+## Previews
 
-### Dimensions Preview  
-![Dimensions Overview](./assets/size.png)
+### Size Preview
+<img src="./assets/size.png" width=600 alt="Size Description" />
 
-### Real Shots  
-<!-- todo -->
+<img src="./assets/size-real.jpg" width=300 alt="Actual Bit Size" />
+
+The bit mounting slots on the lid have an edge length of 6.5mm. Different brands of bits or materials might require slight adjustments to the hole size. An STP file is provided for users to modify and adjust as needed.
+
+### Real Shots
+<img src="./assets/real-shot-1.jpg" width=300 alt="Real Shot 1" />
+<img src="./assets/real-shot-2.jpg" width=300 alt="Real Shot 2" />
+<img src="./assets/real-shot-3.jpg" width=300 alt="Real Shot 3" />
+<img src="./assets/real-shot-4.jpg" width=300 alt="Real Shot 4" />
+<img src="./assets/real-shot-5.jpg" width=300 alt="Real Shot 5" />
