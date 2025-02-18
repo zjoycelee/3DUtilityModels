@@ -1,0 +1,5 @@
+*.stpbak
+*.3dm.rhl
+*.3dm.bak
+*.3dmbak
+local-test.3mf
